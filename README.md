@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learner0112&layout=compact)](https://github.com/learner0112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-hasan&layout=compact)](https://github.com/abs-hasan/github-readme-stats)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=learner0112)
+![Profile Views](https://komarev.com/ghpvc/?username=abs-hasan)
 
 
