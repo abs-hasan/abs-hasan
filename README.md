@@ -32,7 +32,7 @@ I’m a **Data Scientist** with over 7 years of experience in data analytics, sp
 
 ## 📫 Get in Touch
 - **Email**: abshasan9@gmail.com
-- **LinkedIn**: [linkedin.com/in/abshasan9](https://linkedin.com/in/abshasan9) (update with your actual LinkedIn URL)
+- **LinkedIn**: [linkedin.com/in/abshasan9](https://linkedin.com/in/abshasan) (update with your actual LinkedIn URL)
 - **Portfolio**: [abs-hasan.github.io/portfolio](https://abs-hasan.github.io/portfolio)
 
 I’m currently seeking data analytics roles where I can leverage my skills to deliver impactful solutions. Let’s connect!
