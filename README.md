@@ -18,12 +18,31 @@ Here are some ideas to get you started:
 
 # Hi, I’m Abu Bakar Siddik Hasan! 👋
 
-I’m a **Data Scientist** with over 7 years of experience in data analytics, specializing in building data pipelines, ETL processes, and analytics dashboards. I’m passionate about turning data into actionable insights to drive business impact, with a focus on aged care and finance industries.
+I’m a **Data Scientist** with over 5 years of experience in data analytics, specializing in building data pipelines, ETL processes, and analytics dashboards. I’m passionate about turning data into actionable insights to drive business impact, with a focus on aged care and finance industries.
 
-## 🔧 Skills
-- **Languages & Tools**: Python, SQL, Tableau, Airflow, Excel
-- **Expertise**: Data Pipelines, ETL, Data Modeling, Data Visualization, Machine Learning
-- **Domains**: Marketing Analytics, Financial Reporting, Customer Insights
+## 🛠️ Core Skills
+
+- **Programming:** Python, R, SQL  
+- **CRM Platforms:** Salesforce, HubSpot  
+- **Visualization:** Tableau, Power BI, Advanced Excel  
+- **Cloud & Data Pipelines:** Apache Airflow, Azure (Blob, Data Factory, Synapse), AWS (S3, Lambda, RDS)  
+- **APIs & ETL Automation:** REST APIs, Airflow, Python  
+- **Machine Learning:** Sentiment Analysis, Trend Analysis, Predictive Modeling  
+- **Dev Tools:** Git, Docker  
+- **Soft Skills:** Communication, Problem Solving, Time Management, Collaboration  
+
+
+## 💼 Professional Experience
+
+**Data Analyst**  
+*CareAbout, Melbourne*  
+_Jan 2024 – May 2025_
+- Designed Tableau dashboards for real-time executive insights
+- Automated ETL workflows with Airflow, integrating Salesforce, GA4, Facebook, and Bing
+- Optimized databases for high-performance reporting
+- Developed Python scripts for automation and code optimization
+- Improved SQL query performance by 20%
+- Built a lead propensity model and automated market trend web scraping
 
 ## 🌟 Featured Projects
 - **[GA4 ETL Pipeline](https://github.com/abs-hasan/GA4-ETL-Pipeline)**: Built a pipeline to extract GA4 campaign data, transform it with Python, and load it into SQL Server for analysis.
