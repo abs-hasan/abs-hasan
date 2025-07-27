@@ -1,4 +1,3 @@
-### Hi theres 👋
 
 <!--
 **Learner0112/Learner0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +33,7 @@ I’m a **Data Scientist** with over 5 years of experience in data analytics, sp
 
 ## 💼 Professional Experience
 
-**Data Analyst**  
+**Data Scientist**  
 *CareAbout, Melbourne*  
 _Jan 2024 – May 2025_
 - Designed Tableau dashboards for real-time executive insights
