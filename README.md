@@ -55,7 +55,6 @@ _Jan 2024 – May 2025_
 
 I’m currently seeking data analytics roles where I can leverage my skills to deliver impactful solutions. Let’s connect!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-hasan&layout=compact)](https://github.com/abs-hasan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-hasan&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/abs-hasan/github-readme-stats)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abs-hasan)
