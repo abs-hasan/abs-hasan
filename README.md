@@ -47,8 +47,8 @@ _Jan 2024 – May 2025_
 
 👨‍💻 Data Engineering
 
-- 📦 **[Automated Weather Data Pipeline](https://github.com/abs-hasan/automated-weather-data-pipeline)** 🌀 Apache Airflow • 🧪 ETL • ☁️ AWS S3 • 🐍 Python 🐳 Docker 
-  - A fully Dockerized pipeline that fetches real-time weather data from OpenWeather API, transforms and validates it, and uploads to AWS S3.
+- 📦 **[Automated Weather Data Pipeline](https://github.com/abs-hasan/automated-weather-data-pipeline)** 🌀 Apache Airflow • 🧪 ETL • ☁️ AWS S3 • 🐍 Python 🐳 Docker.
+- A fully Dockerized pipeline that fetches real-time weather data from OpenWeather API, transforms and validates it, and uploads to AWS S3.
 
 - 🤝 **[Partner Performance Automation](https://github.com/abs-hasan/Partner-Performance-Automation)**: 🌀 Apache Airflow • 📌 Weekly KPIs •  • 🔗 Report Automation • ☁️ Azure SQL DataBase 🐳 Docker 
  - Automates partner performance scoring using data from databases and uploads results to Salesforce CRM and Google Sheets. Calculates custom scores weekly, flags underperformers, and supports dashboard-ready outputs.
