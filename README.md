@@ -46,17 +46,13 @@ _Jan 2024 – May 2025_
 ## 🌟 Featured Projects
 
 - 📦 **[Automated Weather Data Pipeline](https://github.com/abs-hasan/automated-weather-data-pipeline)** 🌀 Apache Airflow • 🧪 ETL • ☁️ AWS S3 • 🐍 Python 🐳 Docker.
- - A fully Dockerized pipeline that fetches real-time weather data from OpenWeather API, transforms and validates it, and uploads to AWS S3.
-
+  - A fully Dockerized pipeline that fetches real-time weather data from OpenWeather API, transforms and validates it, and uploads to AWS S3.
 - 🤝 **[Partner Performance Automation](https://github.com/abs-hasan/Partner-Performance-Automation)**: 🌀 Apache Airflow • 📌 Weekly KPIs •  • 🔗 Report Automation • ☁️ Azure SQL DataBase 🐳 Docker 
- - Automates partner performance scoring using data from databases and uploads results to Salesforce CRM and Google Sheets. Calculates custom scores weekly, flags underperformers, and supports dashboard-ready outputs.
-
+  - Automates partner performance scoring using data from databases and uploads results to Salesforce CRM and Google Sheets. Calculates custom scores weekly, flags underperformers, and supports dashboard-ready outputs.
 - **[GA4 ETL Pipeline](https://github.com/abs-hasan/GA4-ETL-Pipeline)**: 🌀 Apache Airflow 🔗 GA4 API • 🐍 Python  • 🧮 SQL Server Load 🌐 Azure SQL DataBase 🐳 Docker 
   - Pulls campaign data from Google Analytics 4, transforms UTM and traffic info with Python, and loads it into SQL Server. Enables unified marketing attribution.
-
 - 🛍️ **[Retail Profit Drain Analysis](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis)** 📊 Advanced SQL • 🧾 Profit Leakage KPIs •  📊 Data Modeling & Database Design
   - A SQL-based project that reveals hidden margin erosion in omnichannel retail. Tracks returns, marketing spend inefficiencies, and operational loss across categories.
-  
 - 🧪 **[A/B Test: Lead Conversion Optimization (In Progress)](https://github.com/abs-hasan/ab-test-lead-conversion)** 📈 AB Testing • 🎯 Funnel Metrics • 🧮 Statistical Testing
   -  Built a complete testing framework using SQL and Python to evaluate a new onboarding strategy. Includes group assignment, conversion funnel analysis, and revenue impact study.
 
@@ -64,10 +60,9 @@ _Jan 2024 – May 2025_
 
 ## 📫 Get in Touch
 - **Email**: abshasan9@gmail.com
-- **LinkedIn**: [linkedin.com/in/abshasan9](https://linkedin.com/in/abshasan) (update with your actual LinkedIn URL)
-- **Portfolio**: [abs-hasan.github.io/portfolio](https://abs-hasan.github.io/portfolio)
+- **LinkedIn**: [linkedin.com/in/abs-hasan](https://linkedin.com/in/abshasan) (update with your actual LinkedIn URL)
 
-I’m currently seeking data analytics roles where I can leverage my skills to deliver impactful solutions. Let’s connect!
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abs-hasan&layout=compact&theme=radical&hide=swift,c%23)](https://github.com/abs-hasan/github-readme-stats)
 
