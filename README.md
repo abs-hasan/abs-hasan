@@ -44,9 +44,36 @@ _Jan 2024 – May 2025_
 - Built a lead propensity model and automated market trend web scraping
 
 ## 🌟 Featured Projects
-- **[GA4 ETL Pipeline](https://github.com/abs-hasan/GA4-ETL-Pipeline)**: Built a pipeline to extract GA4 campaign data, transform it with Python, and load it into SQL Server for analysis.
+
+👨‍💻 Data Engineering
+
+- **[GA4 ETL Pipeline](https://github.com/abs-hasan/GA4-ETL-Pipeline)**: 🔗 GA4 API • 🐍 Python Transformations • 🧮 SQL Server Load
+  - Pulls campaign data from Google Analytics 4, transforms UTM and traffic info with Python, and loads it into SQL Server. Enables unified marketing attribution.
 - **[Data Modeling for Analytics Dashboards](https://github.com/abs-hasan/Data-Modeling-for-Analytics-Dashboards)**: Created SQL views to prepare lead, cost, and GA4 data for multiple dashboards.
-- **[Airflow Task Automator](https://github.com/abs-hasan/Airflow-Task-Automator)**: Developed an Airflow-scheduled pipeline to calculate customer experience scores.
+
+- 📦 **[Automated Weather Data Pipeline](https://github.com/abs-hasan/automated-weather-data-pipeline)** 🌀 Apache Airflow • 🧪 Real-time API ETL • ☁️ AWS S3 • 🐍 Python
+  - A fully Dockerized pipeline that fetches real-time weather data from OpenWeather API, transforms and validates it, and uploads to AWS S3.
+  
+
+- 🛍️ **[Retail Profit Drain Analysis](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis)**
+  📊 Advanced SQL • 🧾 Profit Leakage KPIs •  📊 Data Modeling & Database Design
+  A SQL-based project that reveals hidden margin erosion in omnichannel retail. Tracks returns, marketing spend inefficiencies, and operational loss across categories.
+
+🧪 A/B Test: Lead Conversion Optimization (In Progress)
+  📈 AB Testing • 🎯 Funnel Metrics • 🧮 Statistical Testing
+  Built a complete testing framework using SQL and Python to evaluate a new onboarding strategy. Includes group assignment, conversion funnel analysis, and revenue impact study.
+
+🍽️ Restaurant Analytics
+📍 Location Insights • 📅 Cohort Trends • 💹 SQL Reports
+Analyzes customer behavior and sales trends across branches. Uses SQL to prepare marketing performance metrics, time-based segmentation, and branch comparisons.
+
+- 🤝 **[Partner Performance Automation](https://github.com/abs-hasan/Partner-Performance-Automation)**: 🧩 Airflow DAGs • 📌 Weekly KPIs •  • 🔗 Report Automation • 🌐 REST API
+ - Automates partner performance scoring using data from databases and uploads results to Salesforce CRM and Google Sheets. Calculates custom scores weekly, flags underperformers, and supports dashboard-ready outputs.
+
+
+🗂️ Data Transformation with SQL
+🧮 Modular Views • 🧼 Data Cleaning • 🔗 Source Integration
+Combines lead, cost, and traffic data from multiple sources into clean, joinable views. Supports business dashboards by modeling production-ready SQL tables.
 
 ## 📫 Get in Touch
 - **Email**: abshasan9@gmail.com
