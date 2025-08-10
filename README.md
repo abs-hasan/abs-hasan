@@ -24,7 +24,7 @@ I’m a **Data Scientist** with over 5 years of experience in data analytics, sp
 - **Programming:** Python, R, SQL  
 - **CRM Platforms:** Salesforce, HubSpot  
 - **Visualization:** Tableau, Power BI, Advanced Excel  
-- **Cloud & Data Pipelines:** Apache Airflow, Azure (Blob, Data Factory, Synapse), AWS (S3, Lambda, RDS)  
+- **Cloud & Data Pipelines:** Apache Airflow, Azure (Blob, Data Factory, Synapse), AWS (S3, Lambda, RDS), Google Cloud (BigQuery, Cloud Function, Cloud Storage)
 - **APIs & ETL Automation:** REST APIs, Airflow, Python  
 - **Machine Learning:** Sentiment Analysis, Trend Analysis, Predictive Modeling  
 - **Dev Tools:** Git, Docker  
