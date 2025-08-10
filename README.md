@@ -53,8 +53,8 @@ _Jan 2024 – May 2025_
   - Pulls campaign data from Google Analytics 4, transforms UTM and traffic info with Python, and loads it into SQL Server. Enables unified marketing attribution.
 - 🛍️ **[Retail Profit Drain Analysis](https://github.com/abs-hasan/Retail-Profit-Drain_Analysis)** 📊 Advanced SQL • 🧾 Profit Leakage KPIs •  📊 Data Modeling & Database Design
   - A SQL-based project that reveals hidden margin erosion in omnichannel retail. Tracks returns, marketing spend inefficiencies, and operational loss across categories.
-- 🧪 **[A/B Test: Lead Conversion Optimization (In Progress)](https://github.com/abs-hasan/ab-test-lead-conversion)** 📈 AB Testing • 🎯 Funnel Metrics • 🧮 Statistical Testing
-  -  Built a complete testing framework using SQL and Python to evaluate a new onboarding strategy. Includes group assignment, conversion funnel analysis, and revenue impact study.
+- 🧪 **[A/B Testing : Search Ranking Impact)](https://github.com/abs-hasan/ab-testing-search-ranking-impact)** 📈 AB Testing • 🎯 Funnel Metrics • 🧮 Statistical Testing
+  -  Data-driven A/B testing analysis evaluating a new search ranking algorithm's impact on conversion rate and booking behavior for a travel platform.
 
 
 
