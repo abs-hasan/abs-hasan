@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I’m Abu Hasan! 👋
 
-I’m a **Data Scientist** with over 5 years of experience in data analytics, specializing in building data pipelines, ETL processes, and analytics dashboards. I’m passionate about turning data into actionable insights to drive business impact, with a focus on aged care and finance industries.
+I’m a **Data Professional** with over 5 years of experience in data analytics, specializing in building data pipelines, ETL processes, and analytics dashboards. I’m passionate about turning data into actionable insights to drive business impact, with a focus on aged care and finance industries.
 
 ## 🛠️ Core Skills
 
@@ -33,7 +33,7 @@ I’m a **Data Scientist** with over 5 years of experience in data analytics, sp
 
 ## 💼 Professional Experience
 
-**Data Scientist**  
+**Data Engineering & Analytics**  
 *CareAbout, Melbourne*  
 _Jan 2024 – May 2025_
 - Designed Tableau dashboards for real-time executive insights
