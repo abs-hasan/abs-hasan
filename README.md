@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I’m Abu Hasan! 👋
+# Hi, I’m Hasan! 👋
 
 I’m a **Data Professional** with over 5 years of experience in data analytics, specializing in building data pipelines, ETL processes, and analytics dashboards. I’m passionate about turning data into actionable insights to drive business impact, with a focus on aged care and finance industries.
 
