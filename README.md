@@ -59,7 +59,7 @@ _Jan 2024 – May 2025_
 
 
 ## 📫 Get in Touch
-- **Email**: abshasan9@gmail.com
+
 - **LinkedIn**: [linkedin.com/in/abs-hasan](https://linkedin.com/in/abshasan) (update with your actual LinkedIn URL)
 
 
